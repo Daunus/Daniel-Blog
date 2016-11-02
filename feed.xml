@@ -3,10 +3,10 @@
   <channel>
     <title>Daniel Wilczynski</title>
     <description>Biographical Page &amp; Bitcoin Blog</description>
-    <link>http://Daunus.github.io/daniel-blog/</link>
-    <atom:link href="http://Daunus.github.io/daniel-blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Nov 2016 18:24:41 +0700</pubDate>
-    <lastBuildDate>Wed, 02 Nov 2016 18:24:41 +0700</lastBuildDate>
+    <link>http://Daunus.github.io/Daniel-Blog/</link>
+    <atom:link href="http://Daunus.github.io/Daniel-Blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 02 Nov 2016 18:36:19 +0700</pubDate>
+    <lastBuildDate>Wed, 02 Nov 2016 18:36:19 +0700</lastBuildDate>
     <generator>Jekyll v3.0.5</generator>
     
       <item>
@@ -28,7 +28,7 @@ Open a web browser at this address: http://127.0.0.1:4000/Jekyll-Iris/.
 Note: I am using a Mac with 2.3.0 Ruby installed. You may need to &lt;a href=&quot;https://www.ruby-lang.org/en/downloads/&quot;&gt;download&lt;/a&gt; or update Ruby.&lt;/p&gt;
 
 &lt;div class=&quot;expand-div&quot;&gt;Having trouble? Have a look at my screen, it may help. &lt;button class=&quot;toggle-button&quot;&gt;expand&lt;/button&gt; &lt;div class=&quot;expandable&quot; expanded=&quot;false&quot;&gt;
-&lt;img src=&quot;/daniel-blog/assets/images/setup_jekyll.jpg&quot; alt=&quot;Set up and run a jekyll theme&quot; /&gt;
+&lt;img src=&quot;/Daniel-Blog/assets/images/setup_jekyll.jpg&quot; alt=&quot;Set up and run a jekyll theme&quot; /&gt;
 &lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -42,7 +42,7 @@ Note: I am using a Mac with 2.3.0 Ruby installed. You may need to &lt;a href=&qu
     &lt;p&gt;Open the jekyll iris project using an IDE or whatever way you prefer. There is _config.yml located at the top level of the directory. There are a list of variables in _config.yml we need to change. &lt;strong&gt;Any changes in this file requires to run ‘jekyll serve’ to take effect&lt;/strong&gt;.&lt;/p&gt;
 
     &lt;div class=&quot;expand-div&quot;&gt;Having trouble? Have a look at my screen, it may help. &lt;button class=&quot;toggle-button&quot;&gt;expand&lt;/button&gt; &lt;div class=&quot;expandable&quot; expanded=&quot;false&quot;&gt;
-  &lt;img src=&quot;/daniel-blog/assets/images/config.jpg&quot; alt=&quot;_config.yml file&quot; /&gt;
+  &lt;img src=&quot;/Daniel-Blog/assets/images/config.jpg&quot; alt=&quot;_config.yml file&quot; /&gt;
   &lt;/div&gt;&lt;/div&gt;
 
     &lt;ul&gt;
@@ -130,7 +130,7 @@ Leave &amp;lt;span&amp;gt; in and replace any text you want, you can also add mo
 You only need to run ‘jekyll serve’ for _config.yml. For others files such as sass files, all you need to do is to refresh the web browser to see changes.&lt;/p&gt;
 
     &lt;div class=&quot;expand-div&quot;&gt;Having trouble? Have a look at my screen, it may help. &lt;button class=&quot;toggle-button&quot;&gt;expand&lt;/button&gt; &lt;div class=&quot;expandable&quot; expanded=&quot;false&quot;&gt;
-  &lt;img src=&quot;/daniel-blog/assets/images/sass_variables.jpg&quot; alt=&quot;Find variables.sass file in source folder&quot; /&gt;
+  &lt;img src=&quot;/Daniel-Blog/assets/images/sass_variables.jpg&quot; alt=&quot;Find variables.sass file in source folder&quot; /&gt;
   &lt;/div&gt;&lt;/div&gt;
 
     &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
@@ -150,7 +150,7 @@ You can change primary and secondary color here. Primary color is purple, and se
     &lt;p&gt;Navigate to the _post folder located at Jekyll-Iris/source/_posts, then create a new file named in a format as ‘yyyy-mm-dd-fileName.md’ or ‘yyyy-mm-dd-fileName.markdown’, For example, ‘2016-10-21-how to set up a blog site using Jekyll and GitHub.md’. &lt;strong&gt;The date in the file name is important, can not be omitted&lt;/strong&gt;.&lt;/p&gt;
 
     &lt;div class=&quot;expand-div&quot;&gt;Having trouble? Have a look at my screen, it may help. &lt;button class=&quot;toggle-button&quot;&gt;expand&lt;/button&gt; &lt;div class=&quot;expandable&quot; expanded=&quot;false&quot;&gt;
- &lt;img src=&quot;/daniel-blog/assets/images/new_file.jpg&quot; alt=&quot;Create a blog post in _post folder&quot; /&gt;
+ &lt;img src=&quot;/Daniel-Blog/assets/images/new_file.jpg&quot; alt=&quot;Create a blog post in _post folder&quot; /&gt;
  &lt;/div&gt;&lt;/div&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -175,7 +175,7 @@ date: Posts are sorted by the date in a descendant order.&lt;/p&gt;
     &lt;h4 id=&quot;write-the-content&quot;&gt;Write the content&lt;/h4&gt;
     &lt;p&gt;You can use markdown syntax and/or a normal html syntax to write blog content. Once you are familiar with markdown syntax, it is faster to write your posts compared with html syntax.&lt;/p&gt;
     &lt;div class=&quot;expand-div&quot;&gt;Having trouble? Have a look at my screen, it may help. &lt;button class=&quot;toggle-button&quot;&gt;expand&lt;/button&gt; &lt;div class=&quot;expandable&quot; expanded=&quot;false&quot;&gt;
- &lt;img src=&quot;/daniel-blog/assets/images/syntax.jpg&quot; alt=&quot;Markdown and html syntax as an example&quot; /&gt;
+ &lt;img src=&quot;/Daniel-Blog/assets/images/syntax.jpg&quot; alt=&quot;Markdown and html syntax as an example&quot; /&gt;
  &lt;/div&gt;&lt;/div&gt;
 
     &lt;div class=&quot;hint&quot;&gt;&lt;strong&gt; Useful Tips &amp;gt; &lt;/strong&gt;
@@ -257,8 +257,8 @@ date: Posts are sorted by the date in a descendant order.&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 21 Oct 2016 00:00:00 +0700</pubDate>
-        <link>http://Daunus.github.io/daniel-blog/How_To_Set_Up_Your_Blog_Site_Using_Jekyll_and_GitHub_Pages</link>
-        <guid isPermaLink="true">http://Daunus.github.io/daniel-blog/How_To_Set_Up_Your_Blog_Site_Using_Jekyll_and_GitHub_Pages</guid>
+        <link>http://Daunus.github.io/Daniel-Blog/How_To_Set_Up_Your_Blog_Site_Using_Jekyll_and_GitHub_Pages</link>
+        <guid isPermaLink="true">http://Daunus.github.io/Daniel-Blog/How_To_Set_Up_Your_Blog_Site_Using_Jekyll_and_GitHub_Pages</guid>
         
         
       </item>
@@ -291,8 +291,8 @@ date: Posts are sorted by the date in a descendant order.&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 20 Oct 2016 00:00:00 +0700</pubDate>
-        <link>http://Daunus.github.io/daniel-blog/Markdown Syntax Example</link>
-        <guid isPermaLink="true">http://Daunus.github.io/daniel-blog/Markdown Syntax Example</guid>
+        <link>http://Daunus.github.io/Daniel-Blog/Markdown Syntax Example</link>
+        <guid isPermaLink="true">http://Daunus.github.io/Daniel-Blog/Markdown Syntax Example</guid>
         
         
       </item>
@@ -324,8 +324,8 @@ date: Posts are sorted by the date in a descendant order.&lt;/p&gt;
 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 </description>
         <pubDate>Tue, 22 Dec 2015 05:08:35 +0700</pubDate>
-        <link>http://Daunus.github.io/daniel-blog/consectetuer-adipiscing-elit-3</link>
-        <guid isPermaLink="true">http://Daunus.github.io/daniel-blog/consectetuer-adipiscing-elit-3</guid>
+        <link>http://Daunus.github.io/Daniel-Blog/consectetuer-adipiscing-elit-3</link>
+        <guid isPermaLink="true">http://Daunus.github.io/Daniel-Blog/consectetuer-adipiscing-elit-3</guid>
         
         
         <category>jekyll</category>
@@ -361,8 +361,8 @@ date: Posts are sorted by the date in a descendant order.&lt;/p&gt;
 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 </description>
         <pubDate>Tue, 22 Dec 2015 05:08:35 +0700</pubDate>
-        <link>http://Daunus.github.io/daniel-blog/consectetuer-adipiscing-elit-2</link>
-        <guid isPermaLink="true">http://Daunus.github.io/daniel-blog/consectetuer-adipiscing-elit-2</guid>
+        <link>http://Daunus.github.io/Daniel-Blog/consectetuer-adipiscing-elit-2</link>
+        <guid isPermaLink="true">http://Daunus.github.io/Daniel-Blog/consectetuer-adipiscing-elit-2</guid>
         
         
         <category>jekyll</category>
@@ -398,8 +398,8 @@ date: Posts are sorted by the date in a descendant order.&lt;/p&gt;
 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 </description>
         <pubDate>Tue, 22 Dec 2015 05:08:35 +0700</pubDate>
-        <link>http://Daunus.github.io/daniel-blog/consectetuer-adipiscing-elit-1</link>
-        <guid isPermaLink="true">http://Daunus.github.io/daniel-blog/consectetuer-adipiscing-elit-1</guid>
+        <link>http://Daunus.github.io/Daniel-Blog/consectetuer-adipiscing-elit-1</link>
+        <guid isPermaLink="true">http://Daunus.github.io/Daniel-Blog/consectetuer-adipiscing-elit-1</guid>
         
         
         <category>jekyll</category>
