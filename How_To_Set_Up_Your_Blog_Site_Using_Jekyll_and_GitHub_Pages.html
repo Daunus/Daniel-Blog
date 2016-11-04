@@ -387,24 +387,29 @@ date: Posts are sorted by the date in a descendant order.</p>
 <!-- Comments Start -->
 
   <div class="comments">
-  <div id="disqus_thread" class="container"></div> 
 
-<script>
-var disqus_config = function () {
-    this.page.url = 'https://daunus.github.io/Daniel-Blog/How_To_Set_Up_Your_Blog_Site_Using_Jekyll_and_GitHub_Pages';
-    this.page.identifier = 'How to Set Up a Blog Site Using Jekyll and GitHub Pages';
-};
+      <div id="disqus_thread" class="container"></div>
+      <script>
+          /**
+           *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+           *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+           */
 
-(function() { 
-    var d = document, s = d.createElement('script');
-    s.src = '//'+'danielwilczynski'+'.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-})();
+           var disqus_config = function () {
+               this.page.url = 'https://daunus.github.io/Daniel-Blog/How_To_Set_Up_Your_Blog_Site_Using_Jekyll_and_GitHub_Pages';
+               this.page.identifier = 'How to Set Up a Blog Site Using Jekyll and GitHub Pages';
+           };
 
+          (function() {  // DON'T EDIT BELOW THIS LINE
+              var d = document, s = d.createElement('script');
 
-  </script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+              s.src = '//'+'danielwilczynskiblog'+'.disqus.com/embed.js';
+
+              s.setAttribute('data-timestamp', +new Date());
+              (d.head || d.body).appendChild(s);
+          })();
+      </script>
+      <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 
   </div>
 <!-- Comments End -->
@@ -465,7 +470,7 @@ var disqus_config = function () {
 
 
 
-<script id="dsq-count-scr" src="//danielwilczynski.disqus.com/count.js" async></script>
+<script id="dsq-count-scr" src="//danielwilczynskiblog.disqus.com/count.js" async></script>
 
 
     
