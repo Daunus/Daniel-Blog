@@ -31,9 +31,9 @@ a {
   transition: color $base-duration $base-timing;
 
   &.button_outline{
-    padding: $mini-spacing $small-spacing;
+    padding: $base-spacing $small-spacing;
     border-radius: $base-border-radius;
-    border: 1px solid $primary-color;
+    //border: 1px solid $primary-color;
     white-space: nowrap;
   }
 

@@ -4,6 +4,7 @@
     <a class="site-title" href="{{ site.baseurl }}/"><strong>{{ site.title }}</strong></a>
 
     <nav class="site-nav">
+        <a class="page-link button_outline" href="{{ site.baseurl }}/">Blog</a>
         {% for page in site.pages %}
           {% if page.title %}
           <a class="page-link button_outline" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
@@ -17,6 +18,7 @@
     <a class="site-title" href="{{ site.baseurl }}/"><strong>{{ site.title }}</strong></a>
 
     <nav class="site-nav">
+        <a class="page-link button_outline" href="{{ site.baseurl }}/">Blog</a>
         {% for page in site.pages %}
           {% if page.title %}
           <a class="page-link button_outline" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
