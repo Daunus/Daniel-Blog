@@ -8,7 +8,7 @@ About anything I want
 ### Credits
 
 #### Forked from
-* XunaXu/Jekyll-Iris: [dotX Jekyll Theme](https://github.com/XunaXu/Jekyll-Iris)
+* XunaXu/Jekyll-Iris: [Jekyll Theme](https://github.com/XunaXu/Jekyll-Iris)
 
 
 ### Copyright and license
