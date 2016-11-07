@@ -25,7 +25,7 @@ keywords: "Bitcoin, Tech"
 
 # Site settings
 url: http://Daunus.github.io
-baseurl: "/daniel"
+baseurl: "/Daniel-Blog"
 paginate_path: /page:num
 gems: [jekyll-paginate]
 paginate: 10
@@ -61,7 +61,7 @@ author:
 
 # comments
 comments: true
-disqus_shortname: "danielwilczynski" #### REPLACE ME, register your account at disqus if you don't have one ####
+disqus_shortname: "danielwilczynskiblog" #### REPLACE ME, register your account at disqus if you don't have one ####
 
 # subscribe
 subscribe: true
