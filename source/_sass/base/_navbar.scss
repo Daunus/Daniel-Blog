@@ -1,27 +1,29 @@
 .site-header{
-  padding-top: 10px;
-  padding-bottom: 5px;
-  .site-nav{
-    float: right;
+
+  padding-top: 100px;
+  padding-bottom: 40px;
+
+
+  .site-description{
+      color: #526B87;
+      letter-spacing: 0;
+
   }
+
   .site-title{
-    font-size: 20px;
+      padding-bottom: 40px;
   }
 
-  &.sticky{
-    background-color: $primary-color;
-    position: fixed;
-    width: 100%;
+}
 
-    a{
-      color: $white-color;
-      border-color: $white-color;
-      &:hover{
-        color: $secondary-color;
-        border-color: $secondary-color;
-      }
-    }
-  }
+.site-nav{
+    width:80%;
+    margin:auto;
+    border-top: 3px solid #eee;
+    border-bottom: 3px solid #eee;
+    padding: 40px;
+
+
 }
 
 
@@ -31,6 +33,6 @@
   position: absolute;
   top: 0px;
   left: 0px;
-  height: 50px;
+  height: 500px;
   width: 100%;
 }

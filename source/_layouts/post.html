@@ -2,21 +2,30 @@
 layout: default
 ---
 
+
+
+<div class = "post-social">
+{% include share.html %}
+{% include subscribe.html %}
+</div>
+
+
+
+<div class="post-title" style="background-image: url('{{site.baseurl}}/assets/images/bgImg6.jpg');
+">
+ <div class = "container">
+ <div class="title">{{ page.title }}</div>
+
+   <div class="post-meta">{{ page.date | date: "%b %-d, %Y" }} &nbsp; | &nbsp; {{ page.content | number_of_words | divided_by:150 }} Min Read &nbsp; | &nbsp;
+    <span class="disqus-comment-count" data-disqus-identifier="{{page.title}}"></span>
+   </div>
+ </div>
+</div>
+
+
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-   <div class="post-title" style="background-image: url('{{site.baseurl}}/assets/images/bgImg6.jpg');
-">
-    <div class = "container">
-    <div class="title">{{ page.title }}</div>
-    <div class = "post-social">
-    {% include share.html %}
-    {% include subscribe.html %}
-   </div>
-      <div class="post-meta">{{ page.date | date: "%b %-d, %Y" }} &nbsp; | &nbsp; {{ page.content | number_of_words | divided_by:150 }} Min Read &nbsp; | &nbsp;
-       <span class="disqus-comment-count" data-disqus-identifier="{{page.title}}"></span>
-      </div>
-    </div>
-   </div>
+
 
 
 

@@ -1,30 +1,18 @@
 {% comment %} {{ page.url | inspect }} {% endcomment %}
-{% if page.url == {{ '/' | prepend: site.baseurl }} or page.url contains "/page" or page.url == '/index.html' or page.url == '/' %}
-<header class="site-header container">
-    <a class="site-title" href="{{ site.baseurl }}/"><strong>{{ site.title }}</strong></a>
 
-    <nav class="site-nav">
-        <a class="page-link button_outline" href="{{ site.baseurl }}/">Blog</a>
-        {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link button_outline" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
-    </nav>
-</header>
-{% else %}
-<header class="site-header sticky">
-	<div class="container">
-    <a class="site-title" href="{{ site.baseurl }}/"><strong>{{ site.title }}</strong></a>
-
-    <nav class="site-nav">
-        <a class="page-link button_outline" href="{{ site.baseurl }}/">Blog</a>
-        {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link button_outline" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
-    </nav>
+<header class="site-header container-fluid center">
+    <div class="site-title center">
+        <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+        <p class="site-description">Biographical Page &amp; Blog</p>
     </div>
+    <div class="site-nav">
+        <a class="page-link button_outline" href="{{ site.baseurl }}/">Blog</a>
+        {% for page in site.pages %}
+          {% if page.title %}
+          <a class="page-link button_outline" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          {% endif %}
+        {% endfor %}
+    </div>
+
+
 </header>
-{% endif %}
