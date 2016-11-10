@@ -13,4 +13,4 @@
 
 cd "_site" && git "init" && git "add" "." && git "commit" "-m" "Deploy to GitHub Pages" && git "push" "--force" "--quiet" "https://github.com/Daunus/Daniel-Blog.git" "master:gh-pages"
 
-echo "done"
+echo "done upload"
