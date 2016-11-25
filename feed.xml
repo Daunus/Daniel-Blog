@@ -3,10 +3,10 @@
   <channel>
     <title>Daniel Wilczynski</title>
     <description>Biographical Page &amp; Bitcoin Blog</description>
-    <link>http://Daunus.github.io/</link>
-    <atom:link href="http://Daunus.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 25 Nov 2016 19:56:52 +0800</pubDate>
-    <lastBuildDate>Fri, 25 Nov 2016 19:56:52 +0800</lastBuildDate>
+    <link>http://danielwilczynski.com/</link>
+    <atom:link href="http://danielwilczynski.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 25 Nov 2016 20:07:11 +0800</pubDate>
+    <lastBuildDate>Fri, 25 Nov 2016 20:07:11 +0800</lastBuildDate>
     <generator>Jekyll v3.0.5</generator>
     
       <item>
@@ -86,8 +86,8 @@
 &lt;p&gt;Give Bali a try and feel free to ask me any questions here.&lt;/p&gt;
 </description>
         <pubDate>Tue, 16 Feb 2016 06:08:35 +0800</pubDate>
-        <link>http://Daunus.github.io/2016/02/15/bitcoin-bootstraping-business-in-bali-part-2-2/</link>
-        <guid isPermaLink="true">http://Daunus.github.io/2016/02/15/bitcoin-bootstraping-business-in-bali-part-2-2/</guid>
+        <link>http://danielwilczynski.com/2016/02/15/bitcoin-bootstraping-business-in-bali-part-2-2/</link>
+        <guid isPermaLink="true">http://danielwilczynski.com/2016/02/15/bitcoin-bootstraping-business-in-bali-part-2-2/</guid>
         
         
         <category>bitcoin</category>
@@ -151,8 +151,8 @@
 &lt;p&gt;Next Week, Part 2 – Bootstraping a business in Bali, Why/Where/What&lt;/p&gt;
 </description>
         <pubDate>Mon, 14 Dec 2015 06:08:35 +0800</pubDate>
-        <link>http://Daunus.github.io/2016/02/06/bitcoin-bootstraping-business-in-bali-part-1/</link>
-        <guid isPermaLink="true">http://Daunus.github.io/2016/02/06/bitcoin-bootstraping-business-in-bali-part-1/</guid>
+        <link>http://danielwilczynski.com/2016/02/06/bitcoin-bootstraping-business-in-bali-part-1/</link>
+        <guid isPermaLink="true">http://danielwilczynski.com/2016/02/06/bitcoin-bootstraping-business-in-bali-part-1/</guid>
         
         
         <category>bitcoin</category>
@@ -675,8 +675,8 @@ the groundwork to make them justifiable.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
         <pubDate>Mon, 14 Dec 2015 06:08:35 +0800</pubDate>
-        <link>http://Daunus.github.io/maxwells-scaling-roadmap</link>
-        <guid isPermaLink="true">http://Daunus.github.io/maxwells-scaling-roadmap</guid>
+        <link>http://danielwilczynski.com/maxwells-scaling-roadmap</link>
+        <guid isPermaLink="true">http://danielwilczynski.com/maxwells-scaling-roadmap</guid>
         
         
         <category>bitcoin</category>
@@ -728,8 +728,8 @@ the groundwork to make them justifiable.&lt;/p&gt;
 &lt;p&gt;Finally there is nothing exceptionally artificial about the limit. Bitcoin itself is artificial, the 21 million limit is also an arbitrary artificial limit. Humans set the parameters of Bitcoin, its supply and its block size limit. The problem and difference is the 21 million limit does not have to change. Block size limit might have to, how will that be decided?&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Dec 2015 06:08:35 +0800</pubDate>
-        <link>http://Daunus.github.io/why-peter-fee-market-wont-work</link>
-        <guid isPermaLink="true">http://Daunus.github.io/why-peter-fee-market-wont-work</guid>
+        <link>http://danielwilczynski.com/why-peter-fee-market-wont-work</link>
+        <guid isPermaLink="true">http://danielwilczynski.com/why-peter-fee-market-wont-work</guid>
         
         
         <category>economics</category>
@@ -749,8 +749,8 @@ the groundwork to make them justifiable.&lt;/p&gt;
 &lt;p&gt;My aim with technical posts is to improve my understanding, and the guides might prove useful to other people with similar educational aspirations.&lt;/p&gt;
 </description>
         <pubDate>Tue, 24 Nov 2015 06:08:35 +0800</pubDate>
-        <link>http://Daunus.github.io/why-i-started-this-blog</link>
-        <guid isPermaLink="true">http://Daunus.github.io/why-i-started-this-blog</guid>
+        <link>http://danielwilczynski.com/why-i-started-this-blog</link>
+        <guid isPermaLink="true">http://danielwilczynski.com/why-i-started-this-blog</guid>
         
         
         <category>personal</category>
