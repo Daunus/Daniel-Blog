@@ -5,7 +5,7 @@ subtitle: About Daniel
 permalink: /about/
 ---
 
-<img src="/Daniel-Blog/assets/images/my_avatar.jpg" alt="Daniel Wilczynski" width="220" height="220" style="float:left;padding:15px;">Daniel Wilczynski is a crypto-currency enthusiast, web developer &amp; serial entrepreneur. If you have come to learn more about crypto-currencies and Bitcoin, their economics and tech you have come to the right place.
+<img src="/assets/images/my_avatar.jpg" alt="Daniel Wilczynski" width="220" height="220" style="float:left;padding:15px;">Daniel Wilczynski is a crypto-currency enthusiast, web developer &amp; serial entrepreneur. If you have come to learn more about crypto-currencies and Bitcoin, their economics and tech you have come to the right place.
 
 <h2>About This Blog</h2>
 

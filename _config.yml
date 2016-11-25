@@ -24,8 +24,8 @@ keywords: "Bitcoin, Tech"
 
 
 # Site settings
-url: http://Daunus.github.io
-baseurl: "/Daniel-Blog"
+url: http://danielwilczynski.com
+baseurl: ""
 paginate_path: /page:num
 gems: [jekyll-paginate]
 paginate: 10

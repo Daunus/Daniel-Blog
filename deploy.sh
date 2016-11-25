@@ -11,6 +11,10 @@
 #or run this file as shell script
 #needs to set permissions 'chmod 751 deploy.sh' first
 
-cd "_site" && git "init" && git "add" "." && git "commit" "-m" "Deploy to GitHub Pages" && git "push" "--force" "--quiet" "https://github.com/Daunus/Daniel-Blog.git" "master:gh-pages"
+cd "_site" && git "init"
+
+cp "../CNAME" "CNAME"
+
+git "add" "." && git "commit" "-m" "Deploy to GitHub Pages" && git "push" "--force" "--quiet" "https://github.com/Daunus/Daniel-Blog.git" "master:gh-pages"
 
 echo "done upload"
