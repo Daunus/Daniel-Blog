@@ -5,9 +5,163 @@
     <description>Biographical Page &amp; Bitcoin Blog</description>
     <link>http://danielwilczynski.com/</link>
     <atom:link href="http://danielwilczynski.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 Nov 2017 17:00:25 +0700</pubDate>
-    <lastBuildDate>Thu, 30 Nov 2017 17:00:25 +0700</lastBuildDate>
+    <pubDate>Thu, 30 Nov 2017 20:52:42 +0700</pubDate>
+    <lastBuildDate>Thu, 30 Nov 2017 20:52:42 +0700</lastBuildDate>
     <generator>Jekyll v3.0.5</generator>
+    
+      <item>
+        <title>Using BETI To Profit From The Coming Bubble</title>
+        <description>&lt;p&gt;TLDR:
+Sell above exponential trend line. Buy below trend line.&lt;/p&gt;
+
+&lt;p&gt;The  time to sell off is after Bitcoins rise above $18000. Following crash buy in slowly below $10000.&lt;/p&gt;
+
+&lt;p&gt;NOTE! This is just a strategy that gives an educated guess. The strategy could be wrong. Don’t hold me responsible for the results of your trading. Bitcoin price can be hard to predict.&lt;/p&gt;
+
+&lt;h2&gt;Using BETI To Profit From The Coming Bitcoin Bubble.&lt;/h2&gt;
+
+&lt;p&gt;The Bitcoin bubble and crash cycle is repeating. As price shoots up meetup attendance and exchange user numbers have also exploded. Many newcomers are looking to invest in Bitcoin or have recently invested.&lt;/p&gt;
+
+&lt;p&gt;As the raising price brings more media attention to Bitcoin, causing further price rises, a mania builds that will send Bitcoin to spectacular heights. It will then crash and enter a bear market reaching possibly as low as $1000.&lt;/p&gt;
+
+&lt;p&gt;This has been the pattern before and its likely to repeat again. What is hard to predict is the exact highs, lows and when the bubble will occur.&lt;/p&gt;
+
+&lt;p&gt;This post explains my simple framework for estimating the price targets to sell, buy and when.&lt;/p&gt;
+
+&lt;p&gt;The essence of it is when the price is significantly above the exponential trend line it’s time to sell off. If it’s on the trend line or below it’s time to accumulate.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/beti/chart.png&quot; alt=&quot;Log Chart of Price&quot; style=&quot;float:left;padding:10px;&quot; width=&quot;1000&quot; height=&quot;625&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The first graph is of the log(price) of Bitcoin. X axis is days since 31/7//2010.&lt;/p&gt;
+
+&lt;p&gt;Light Blue is the line of best fit. Red is a more conservative line with lower slope assuming exponential rate will decrease as Bitcoin market cap gets larger.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/beti/BETI.png&quot; alt=&quot;BETI Chart&quot; style=&quot;float:left;padding:10px;&quot; width=&quot;1000&quot; height=&quot;625&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This second graph illustrates BETI (Bitcoin Exponential Trend Index). It shows how far we are from trend line. Y = ln(days-price / expected-days-price). X axis is days since 31/7/2010.&lt;/p&gt;
+
+&lt;p&gt;0 means we are on trend line.&lt;/p&gt;
+
+&lt;h3&gt;Observations&lt;/h3&gt;
+&lt;p&gt;The first observation we can make is that when we leave a bear market and cross the trend line, we usually get explosive growth.&lt;/p&gt;
+
+&lt;p&gt;We just recently (Nov 2017) crossed the trend line and all the indicators (google trends, user numbers etc) are rapidly growing. This suggest that we might have a cyclic top in the next 3 months.&lt;/p&gt;
+
+&lt;p&gt;The dizzying high prices  will not last long. BETI might reach 1.5 for a few days. It will be hard to sell at the exact top however. BETI might stay over 1 for around 2 weeks.&lt;/p&gt;
+
+&lt;h3&gt;Price Top Predictions&lt;/h3&gt;
+
+&lt;p&gt;Let’s do some predictions of what could happen in the case of a cyclic bubble with the top occurring in 40 days.&lt;/p&gt;
+
+&lt;p&gt;A &lt;strong&gt;BETI of 1.5&lt;/strong&gt; (all time high BETI is 1.8) in &lt;strong&gt;40 days&lt;/strong&gt; would give:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;a top of $32 200 based on line of best fit.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;a top of $22 900 based on conservative line.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Volatility will likely go down in future, plus being conservative let’s look at &lt;strong&gt;BETI of 1 in 40 days&lt;/strong&gt;. This gives us a price of:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;$19 500 based on line of best fit.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;$13 800 for conservative slope line.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We might want to start selling of slowly at a &lt;strong&gt;BETI of 0.8&lt;/strong&gt;. This would mean respectively prices of:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;$16 000,&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;$11 300&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;When To Sell&lt;/h3&gt;
+&lt;p&gt;We do not want to sell to early and be overtaken by the long term trend line.&lt;/p&gt;
+
+&lt;p&gt;Selling at $14 000 means we have 244 days from now  till the best fit trend line reaches $14 000. We would want to buy back significantly before that time as we want to buy below trend line.&lt;/p&gt;
+
+&lt;p&gt;Selling at $18 000. Means we have 321 days from now till the line of best fit reaches the same price level.&lt;/p&gt;
+
+&lt;p&gt;As such, a good approach might be to not sell before $14000.
+&lt;strong&gt;Sell small amounts below $18 000.&lt;br /&gt;
+Moderate amounts below. $27 000.&lt;br /&gt;
+Large sell off above $27 000.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This means anybody with current Bitcoin holdings will make significant profit and has a very good chance of selling at a very good price. They should also have plenty of opportunities to buy back at lower price over then next year.&lt;/p&gt;
+
+&lt;h3&gt;Cyclic Lows After Crash&lt;/h3&gt;
+
+&lt;p&gt;How low could Bitcoin go in the bear market following the bubble pop?&lt;/p&gt;
+
+&lt;p&gt;If in &lt;strong&gt;300 days&lt;/strong&gt; we are in middle of bear market with &lt;strong&gt;BETI of -1&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;That gives us cyclic price low of:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;$6 200 for line of best fit.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;$3 800 for conservative line.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If on the other hand we have a quick and gentle downturn such as the one in mid 2013 and only reach a &lt;strong&gt;BETI of -0.27 in 200 days&lt;/strong&gt;, this would give us a price of:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;$9 200 for line of best fit.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;$6 000 for conservative line.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If we have a long downturn such as the one after the late 2013 bubble and reach a have low of &lt;strong&gt;-1.2 in 800 days&lt;/strong&gt;. We would have a price of:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;$25 800 for line of best fit.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;$12 000 for conservative line.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This means we can be pretty confident that the crash will send Bitcoin at least below $10 000 dollars. &lt;strong&gt;After the pop I would suggest to start buying in slowly, each week we are below $10 000&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Its possible that Bitcoin will go even lower then that though, albeit briefly. A &lt;strong&gt;BETI of -2 in 300 days&lt;/strong&gt; would give us&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;$2 300 for line of best fit.&lt;/li&gt;
+  &lt;li&gt;$1 400 for conservative line.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;i&gt; Credits:&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;The concept of BETI was taken from core dev Dr. Johnson Lau in this &lt;a href=&quot;https://bitcointalk.org/index.php?topic=470453.0&quot;&gt;thread&lt;/a&gt;&lt;/i&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 30 Nov 2017 05:08:35 +0700</pubDate>
+        <link>http://danielwilczynski.com/2017/11/29/bitcoin-price-index/</link>
+        <guid isPermaLink="true">http://danielwilczynski.com/2017/11/29/bitcoin-price-index/</guid>
+        
+        
+        <category>bitcoin</category>
+        
+        <category>price</category>
+        
+      </item>
     
       <item>
         <title>Bitcoin &amp; Bootstraping Business in Bali – Part 2</title>
